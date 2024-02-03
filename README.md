@@ -1,5 +1,7 @@
 # Análise de Assiduidade em Consultas na Cidade de Vitória - ES
 
+edição final: principal3
+
 Este projeto apresenta uma análise detalhada sobre a assiduidade em consultas médicas na cidade de Vitória, capital do Espírito Santo, Brasil. Utilizando dados públicos, o estudo visa compreender os padrões de comparecimento e ausência às consultas marcadas, identificando possíveis fatores que influenciam esses comportamentos. A análise proporciona insights valiosos que podem auxiliar na melhoria da gestão de serviços de saúde e na formulação de estratégias para otimizar a assiduidade dos pacientes.
 
 ## Objetivos
